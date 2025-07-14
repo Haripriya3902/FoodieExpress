@@ -49,30 +49,6 @@ This project is built using **Angular** for a dynamic and responsive front end, 
 
 ---
 
-## 🗂️ Project Structure
-
-FoodieExpress/
-│
-├── .bolt/ 
-│ └── config.json
-│
-├── server/ # Node.js Express backend
-│ └── server.js
-│
-├── src/ # Angular frontend
-│ └── app/
-│ ├── global_styles.css
-│ ├── index.html
-│ └── main.ts
-│
-├── angular.json # Angular CLI config
-├── package.json # Project dependencies
-├── tsconfig*.json # TypeScript config
-├── README.md # Project documentation
-└── .gitignore # Git ignored files
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
